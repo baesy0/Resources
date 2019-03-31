@@ -12,3 +12,6 @@
 
 ## 개발 관련 행사
 - [Naver D2](https://d2.naver.com/news)
+
+## 오픈소스
+- [Naver 오픈소스 커뮤니티](https://naver.github.io/)
