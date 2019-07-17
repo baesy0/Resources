@@ -27,3 +27,7 @@
 
 ## 유튜브
 - [동빈나](https://www.youtube.com/channel/UChflhu32f5EUHlY7_SetNWw)
+
+## 알고리즘
+- [백준알고리즘](https://www.acmicpc.net)
+- [프로그래머스](https://programmers.co.kr)
