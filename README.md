@@ -24,3 +24,6 @@
 ## 커뮤니티
 - [OKKY](https://okky.kr/)
 - [데브피아](http://www.devpia.com/)
+
+## 유튜브
+- [동빈나](https://www.youtube.com/channel/UChflhu32f5EUHlY7_SetNWw)
