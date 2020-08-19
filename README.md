@@ -39,3 +39,7 @@
 
 ## MongoDB
 - [the mongoDB Engineering Journal](https://engineering.mongodb.com)
+
+## standard
+- [ECMA - European association for standardizing information and communication systems](https://www.ecma-international.org/default.htm)
+- [ECMA - git repository](https://github.com/tc39)
