@@ -1,5 +1,8 @@
 # programming
-
+다음과 같은 사이트를 정리해둡니다.
+- 새로운 내용을 공부하기 시작할 때 참고하기 좋은 사이트.
+- 개발관련 행사 정보를 얻을 수 있는 사이트.
+- 현재 개발 분야 / 관심 분야의 정보를 얻을 수 있는 사이트
 ## 온라인 강의
 ### 무료
 - [생활코딩](https://opentutorials.org/course/1)
@@ -29,7 +32,7 @@
 - [백준알고리즘](https://www.acmicpc.net)
 - [프로그래머스](https://programmers.co.kr)
 
-## web
+## web docs
 - [MDN web docs](https://developer.mozilla.org/ko/docs/Web)
 - [PoiemaWeb](https://poiemaweb.com) - html / css / bootstrap / javascript / mongoDB / ...
 
