@@ -6,10 +6,11 @@
 
 ## web docs
 - [MDN web docs](https://developer.mozilla.org/ko/docs/Web)
-- [PoiemaWeb](https://poiemaweb.com) - html / css / bootstrap / javascript / mongoDB / ...
 - [w3c](https://www.w3.org)
 - [Cascading Style Sheet](https://www.w3.org/Style/CSS/)
-- 
+- [WHATWG](https://whatwg.org) - Maintaining and evolving HTML since 2004 / HTML checker 제공
+- [PoiemaWeb](https://poiemaweb.com) - html / css / bootstrap / javascript / mongoDB / ...
+
 ## MongoDB
 - [the mongoDB Engineering Journal](https://engineering.mongodb.com)
 
