@@ -35,6 +35,7 @@
 ## web docs
 - [MDN web docs](https://developer.mozilla.org/ko/docs/Web)
 - [PoiemaWeb](https://poiemaweb.com) - html / css / bootstrap / javascript / mongoDB / ...
+- [w3c](https://www.w3.org)
 
 ## MongoDB
 - [the mongoDB Engineering Journal](https://engineering.mongodb.com)
