@@ -9,12 +9,14 @@
 - [PoiemaWeb](https://poiemaweb.com) - html / css / bootstrap / javascript / mongoDB / ...
 - [w3c](https://www.w3.org)
 - [Cascading Style Sheet](https://www.w3.org/Style/CSS/)
+- 
 ## MongoDB
 - [the mongoDB Engineering Journal](https://engineering.mongodb.com)
 
 ## standard
 - [ECMA - European association for standardizing information and communication systems](https://www.ecma-international.org/default.htm)
 - [ECMA - git repository](https://github.com/tc39)
+- [khronos](https://www.khronos.org) - Khronos royalty-free open standards for 3D graphics, Virtual and Augmented Reality, Parallel Computing, Machine Learning, and Vision Processing
 
 
 ## 개발 관련 행사
