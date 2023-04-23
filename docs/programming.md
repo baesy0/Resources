@@ -12,6 +12,9 @@
 - [web.dev0(https://web.dev) - chrome team이 주도.
 - [PoiemaWeb](https://poiemaweb.com) - html / css / bootstrap / javascript / mongoDB / ...
 
+## OS
+- [kernal](https://www.kernel.org/) Linux Kernal Archive
+
 ## MongoDB
 - [the mongoDB Engineering Journal](https://engineering.mongodb.com)
 
